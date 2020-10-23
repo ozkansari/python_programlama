@@ -1,0 +1,1 @@
+print("Deneme 2");
